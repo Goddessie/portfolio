@@ -6,7 +6,284 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"><div class="sqs-block-content">
 </head>
 
-<body>
+</head>
+  <body id="collection-5de472335043fe7ceb5886da" class="tweak-social-icons-style-regular tweak-social-icons-shape-square tweak-site-width-option-full-background tweak-icon-weight-light  tweak-site-ajax-loading-enable tweak-site-ajax-loading-bar-show ancillary-header-top-left-layout-horizontal ancillary-header-top-center-layout-horizontal ancillary-header-top-right-layout-horizontal ancillary-header-bottom-left-layout-horizontal ancillary-header-bottom-center-layout-stacked ancillary-header-bottom-right-layout-horizontal ancillary-header-branding-position-bottom-center ancillary-header-tagline-position-top-left ancillary-header-primary-nav-position-bottom-left ancillary-header-secondary-nav-position-bottom-right ancillary-header-social-position-hide ancillary-header-search-position-hide ancillary-header-cart-position-bottom-right ancillary-header-account-position-hide tweak-header-primary-nav-hover-style-spotlight tweak-header-primary-nav-button-style-solid tweak-header-primary-nav-button-shape-square tweak-header-secondary-nav-inherit-styles tweak-header-secondary-nav-hover-style-spotlight tweak-header-secondary-nav-button-style-solid tweak-header-secondary-nav-button-shape-square tweak-header-search-style-underlined tweak-header-search-placeholder-show tweak-header-cart-style-text tweak-header-account-style-text   tweak-index-nav-style-none tweak-index-nav-position-right tweak-index-nav-text-show tweak-index-page-fullscreen-none  tweak-index-page-scroll-indicator-none tweak-index-page-scroll-indicator-icon-arrow tweak-index-page-scroll-indicator-icon-weight-hairline  tweak-index-gallery-layout-packed tweak-index-gallery-spacing-sides-show tweak-index-gallery-spacing-top-bottom-show tweak-index-gallery-fixed-height tweak-index-gallery-apply-bottom-spacing tweak-index-gallery-hover-style-plain tweak-index-gallery-controls-small-arrows tweak-index-gallery-controls-icon-weight-hairline tweak-index-gallery-indicators-lines tweak-index-gallery-autoplay-enable tweak-index-gallery-transition-fade tweak-index-gallery-content-position-bottom-left tweak-index-gallery-content-text-alignment-left tweak-footer-show tweak-footer-layout-stacked tweak-footer-layout-columns-auto tweak-footer-stacked-alignment-left    ancillary-mobile-bar-branding-position-top-center ancillary-mobile-bar-menu-icon-position-top-left tweak-mobile-bar-menu-icon-plus ancillary-mobile-bar-search-icon-position-hide ancillary-mobile-bar-cart-position-hide tweak-mobile-bar-cart-style-text ancillary-mobile-bar-account-position-hide tweak-mobile-bar-account-style-text tweak-mobile-overlay-slide-origin-right tweak-mobile-overlay-close-show  tweak-mobile-overlay-menu-primary-button-style-solid tweak-mobile-overlay-menu-primary-button-shape-square   tweak-mobile-overlay-menu-secondary-button-style-solid tweak-mobile-overlay-menu-secondary-button-shape-square tweak-quote-block-alignment-left  tweak-blog-meta-primary-none tweak-blog-meta-secondary-date tweak-blog-list-style-grid tweak-blog-list-separator-show tweak-blog-list-alignment-center tweak-blog-list-item-image-show tweak-blog-list-item-image-aspect-ratio-grid-11-square tweak-blog-list-item-image-aspect-ratio-stacked-11-square tweak-blog-list-item-title-show tweak-blog-list-item-excerpt-show tweak-blog-list-item-body-show tweak-blog-list-item-readmore-hide tweak-blog-list-item-meta-position-below-title tweak-blog-list-pagination-link-label-show tweak-blog-list-pagination-link-icon-show tweak-blog-list-pagination-link-icon-weight-light tweak-blog-item-alignment-center tweak-blog-item-meta-position-above-title tweak-blog-item-share-position-below-content  tweak-blog-item-pagination-link-label-show tweak-blog-item-pagination-link-title-show tweak-blog-item-pagination-link-meta-category tweak-blog-item-pagination-link-icon-weight-hairline   event-thumbnails event-thumbnail-size-32-standard event-date-label  event-list-show-cats event-list-date event-list-time event-list-address     event-excerpts  event-item-back-link    gallery-design-slideshow aspect-ratio-auto lightbox-style-dark gallery-navigation-bullets gallery-info-overlay-show-on-hover gallery-aspect-ratio-32-standard gallery-arrow-style-no-background gallery-transitions-fade gallery-show-arrows gallery-auto-crop   tweak-product-list-image-aspect-ratio-11-square tweak-product-list-item-hover-behavior-show-alternate-image tweak-product-list-meta-position-under tweak-product-list-mobile-meta-position-under tweak-product-list-meta-alignment-under-center tweak-product-list-meta-alignment-overlay-center-center tweak-product-list-show-title tweak-product-list-show-price tweak-product-list-filter-display-hide tweak-product-list-filter-alignment-left tweak-product-item-nav-show-breadcrumb-and-pagination tweak-product-item-nav-pagination-style-previousnext tweak-product-item-nav-breadcrumb-alignment-left tweak-product-item-nav-pagination-alignment-split tweak-product-item-gallery-position-left tweak-product-item-gallery-design-slideshow tweak-product-item-gallery-aspect-ratio-11-square tweak-product-item-gallery-thumbnail-alignment-left tweak-product-item-details-alignment-left tweak-product-item-details-show-title tweak-product-item-details-show-price tweak-product-item-details-show-excerpt tweak-product-item-details-excerpt-position-below-price tweak-product-item-details-show-share-buttons tweak-product-item-details-show-variants tweak-product-item-details-show-quantity tweak-product-item-details-options-style-square tweak-product-item-details-show-add-to-cart-button tweak-product-item-details-add-to-cart-button-style-outline tweak-product-item-details-add-to-cart-button-shape-square tweak-product-item-details-add-to-cart-button-padding-small tweak-product-item-image-zoom-enabled tweak-product-item-image-zoom-behavior-click tweak-product-item-lightbox-enabled tweak-related-products-image-aspect-ratio-11-square tweak-related-products-meta-alignment-under-center tweak-product-badge-style-rectangle tweak-product-badge-position-top-right tweak-product-badge-inset-floating newsletter-style-custom hide-opentable-icons opentable-style-dark small-button-style-outline small-button-shape-rounded medium-button-style-raised medium-button-shape-rounded large-button-style-solid large-button-shape-square image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-top image-block-card-text-alignment-left image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left  image-block-stack-text-alignment-left button-style-solid button-corner-style-square tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light tweak-share-buttons-style-icon-only tweak-share-buttons-icons-show tweak-share-buttons-labels-show tweak-share-buttons-counts-show  tweak-share-buttons-standard-background-color native-currency-code-usd collection-5de472335043fe7ceb5886da collection-type-page collection-layout-default mobile-style-available sqs-has-custom-cart has-site-title has-social enable-load-effects has-primary-nav has-secondary-nav" data-controller="HashManager, SiteLoader, MobileClassname">
+
+    <div class="Loader"></div>
+
+    <div class="Mobile" data-nc-base="mobile-bar" data-controller="AncillaryLayout">
+  <div class="Mobile-bar Mobile-bar--top" data-nc-group="top" data-controller="MobileOffset">
+
+    <div data-nc-container="top-left">
+      <a href="/" class="Mobile-bar-branding" data-nc-element="branding" data-content-field="site-title">
+        
+          
+            Micky
+          
+        
+      </a>
+    </div>
+    <div data-nc-container="top-center"></div>
+    <div data-nc-container="top-right"></div>
+  </div>
+  <div class="Mobile-bar Mobile-bar--bottom" data-nc-group="bottom" data-controller="MobileOffset">
+    <div data-nc-container="bottom-left">
+      <button class="Mobile-bar-menu" data-nc-element="menu-icon" data-controller-overlay="menu" data-controller="MobileOverlayToggle">
+        <svg class="Icon Icon--hamburger" viewBox="0 0 24 18">
+          <use xlink:href="/assets/ui-icons.svg#hamburger-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#hamburger-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--hotdog" viewBox="0 0 24 14">
+          <use xlink:href="/assets/ui-icons.svg#hotdog-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#hotdog-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--plus" viewBox="0 0 20 20">
+          <use xlink:href="/assets/ui-icons.svg#plus-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#plus-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--dots-horizontal" viewBox="0 0 25 7">
+          <use xlink:href="/assets/ui-icons.svg#dots-horizontal-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#dots-horizontal-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--dots-vertical" viewBox="0 0 7 25">
+          <use xlink:href="/assets/ui-icons.svg#dots-vertical-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#dots-vertical-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--squares-horizontal" viewBox="0 0 25 7">
+          <use xlink:href="/assets/ui-icons.svg#squares-horizontal-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#squares-horizontal-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--squares-vertical" viewBox="0 0 7 25">
+          <use xlink:href="/assets/ui-icons.svg#squares-vertical-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#squares-vertical-icon--odd" class="use--odd"></use>
+        </svg>
+      </button>
+    </div>
+    <div data-nc-container="bottom-center">
+      
+    </div>
+    <div data-nc-container="bottom-right">
+      
+      <a href="/search" class="Mobile-bar-search" data-nc-element="search-icon">
+        <svg class="Icon Icon--search" viewBox="0 0 20 20">
+          <use xlink:href="/assets/ui-icons.svg#search-icon"></use>
+        </svg>
+      </a>
+    </div>
+  </div>
+
+  <div class="Mobile-overlay">
+    <div class="Mobile-overlay-menu" data-controller="MobileOverlayFolders">
+      <div class="Mobile-overlay-menu-main">
+        <nav class="Mobile-overlay-nav Mobile-overlay-nav--primary" data-content-field="navigation">
+          
+  
+    
+      
+        
+          
+            <a href="/" class="Mobile-overlay-nav-item">
+              HOME
+            </a>
+          
+        
+      
+    
+    
+  
+    
+    
+      <a href="/search" class="Mobile-overlay-nav-item">
+        Search
+      </a>
+    
+  
+
+        </nav>
+        <nav class="Mobile-overlay-nav Mobile-overlay-nav--secondary" data-content-field="navigation">
+          
+  
+    
+      
+        
+          <a href="/research" class="Mobile-overlay-nav-item">
+            Research
+          </a>
+        
+      
+    
+    
+  
+    
+      
+        
+          
+            <a href="/professional-profile" class="Mobile-overlay-nav-item">
+              Professional Profile
+            </a>
+          
+        
+      
+    
+    
+  
+
+        </nav>
+      </div>
+      <div class="Mobile-overlay-folders" data-content-field="navigation">
+        
+  
+
+  
+
+        
+  
+
+  
+
+      </div>
+    </div>
+    <button class="Mobile-overlay-close" data-controller="MobileOverlayToggle">
+      <svg class="Icon Icon--close" viewBox="0 0 16 16">
+        <use xlink:href="/assets/ui-icons.svg#close-icon"></use>
+      </svg>
+    </button>
+    <div class="Mobile-overlay-back" data-controller="MobileOverlayToggle"></div>
+  </div>
+</div>
+
+
+    <div class="Parallax-host-outer">
+      <div class="Parallax-host" data-parallax-host>
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+          
+        
+      </div>
+    </div>
+
+    <div class="Site" data-nc-base="header" data-controller="AncillaryLayout">
+      <div class="sqs-announcement-bar-dropzone"></div>
+
+      <header class="Header Header--top">
+        <div class="Header-inner Header-inner--top" data-nc-group="top">
+          <div data-nc-container="top-left">
+
+            <div class="Header-search" data-nc-element="search">
+              <form class="Header-search-form" action="/search" method="get">
+                <input class="Header-search-form-input" name="q" type="text" spellcheck="false" value="" autocomplete="off" placeholder="Search" />
+                <button class="Header-search-form-submit" type="submit" data-test="template-search">
+                  <svg class="Icon Icon--search--small" viewBox="0 0 15 15">
+                    <use xlink:href="/assets/ui-icons.svg#search-icon--small"></use>
+                  </svg>
+                  <svg class="Icon Icon--search" viewBox="0 0 20 20">
+                    <use xlink:href="/assets/ui-icons.svg#search-icon"></use>
+                  </svg>
+                </button>
+              </form>
+            </div>
+
+          </div>
+          <div data-nc-container="top-center">
+            
+            
+              <div class="Header-social" data-nc-element="social">
+                
+  <nav class="SocialLinks" data-content-field="connected-accounts">
+    <div class="SocialLinks-inner">
+    <a href="https://www.linkedin.com/in/micky-ml" target="_blank" class="SocialLinks-link linkedin-unauth" style="">
+        <div>
+          <svg class="SocialLinks-link-svg" viewBox="0 0 64 64">
+            
+            <use class="SocialLinks-link-icon" xlink:href="#linkedin-unauth-icon"></use>
+            <use class="SocialLinks-link-mask" xlink:href="#linkedin-unauth-mask"></use>
+          </svg>
+        </div>
+      </a><a href="mailto:travelgame1@gmail.com" target="_blank" class="SocialLinks-link email" style="">
+        <div>
+          <svg class="SocialLinks-link-svg" viewBox="0 0 64 64">
+            
+            <use class="SocialLinks-link-icon" xlink:href="#email-icon"></use>
+            <use class="SocialLinks-link-mask" xlink:href="#email-mask"></use>
+          </svg>
+        </div>
+      </a>
+    </div>
+  </nav>
+
+              </div>
+            
+          </div>
+          <div data-nc-container="top-right">
+
+            
+
+          </div>
+        </div>
+      </header>
+
+      <div class="Site-inner">
+
+        <header class="Header Header--bottom">
+          <div class="Header-inner Header-inner--bottom" data-nc-group="bottom">
+            <div data-nc-container="bottom-left">
+              <nav class="Header-nav Header-nav--primary" data-nc-element="primary-nav" data-content-field="navigation">
+                
+  <div class="Header-nav-inner">
+    <a href="/" class="Header-nav-item" data-test="template-nav">HOME</a><a href="/search" class="Header-nav-item">Search</a>
+  </div>
+
+              </nav>
+            </div>
+            <div data-nc-container="bottom-center">
+
+              <a href="/" class="Header-branding" data-nc-element="branding" data-content-field="site-title">
+                
+                  
+                    Micky
+                  
+                
+              </a>
+              
+
+            </div>
+            <div data-nc-container="bottom-right">
+
+              <nav class="Header-nav Header-nav--secondary" data-nc-element="secondary-nav" data-content-field="navigation">
+                
+  <div class="Header-nav-inner">
+    <a href="/research" class="Header-nav-item" data-test="template-nav">Research</a><a href="/professional-profile" class="Header-nav-item" data-test="template-nav">Professional Profile</a>
+  </div>
+
+              </nav>
+
+            </div>
+          </div>
+        </header>
+
+        <div class="Content-outer">
+          
+            
+              
+                
+                  
+                
+              
+            
+          
+
+          <main class="Main Main--page" >
+            
+              <section class="Main-content" data-content-field="main-content">
+                <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1649129967593" id="page-5de472335043fe7ceb5886da"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="row sqs-row"><div class="col sqs-col-8 span-8"><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_1_1643151608340_23170"><div class="sqs-block-content">
   <h3 style="font-size:30px;">Project Overview</h3>
   <div style="background:#000; height:5px; margin-bottom:20px; margin-top:-15px; width:50px;"></div>
 <p>Northeastern University will evaluate the current e-Learning and Instructional Design program within the College of Professional Studies. This short-term project will conduct the background research necessary to support a program needs assessment and proposal to update the concentration. This serves as the background work for the business case and the Project Sponsor will utilize the data to propose a curriculum and name change to the e-Learning and Instructional Design program. The sponsor has asked for research into the modern duties of an instructional designer and learning experience designer.</p>
@@ -14,7 +291,7 @@
 <p>This project will be successful if the business case is approved and new development of courses and curricula begins.</p>
   <p>This project will be successful if it increases the number of inquiries and enrollments in classes as well as the satisfaction surveys of those enrollees.</p>
   <p>This project will be successful if it meets ROI goals and other financial measurements.</p>
-  <p>This project will be successful if deliverables are completed on time and run professionally according to the project sponsor’s needs.</p></div>
+  <p>This project will be successful if deliverables are completed on time and run professionally according to the project sponsor’s needs.</p></div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_1_1643151608340_6110"><div class="sqs-block-content"><div style="background:#000; padding:25px;">
 <h4 style="font-weight:600; margin-bottom:8px; color:#fff;">Project Details:</h4>
 <div style="background:#000; height:3px; margin-bottom:20px; width:15%;"></div>
  <table width="100%" border="0" cellspacing="0" cellpadding="10">
@@ -63,5 +340,566 @@
   <div style="background:#000; height:5px; margin-bottom:20px; margin-top:-15px; width:50px;"></div>
   <p>Northeastern University is retiring the eLearning and Instructional Design program and launching the Master of Professional Studies in Learning Experience Design and Technology. This program encompasses more technical skills that competitor university offers.</p></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_1_1643151608340_43583"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_1_1643151608340_44712"><div class="sqs-block-content"><h3 style="font-size:30px;">Evidence</h3>
   <div style="background:#000; height:5px; margin-bottom:20px; margin-top:-15px; width:50px;"></div></div></div><div class="sqs-block gallery-block sqs-block-gallery" data-block-json="&#123;&quot;hSize&quot;:null,&quot;floatDir&quot;:null,&quot;methodOption&quot;:&quot;transient&quot;,&quot;existingGallery&quot;:null,&quot;newWindow&quot;:true,&quot;aspectRatio&quot;:null,&quot;auto-crop&quot;:true,&quot;autoplay&quot;:false,&quot;blockAnimation&quot;:&quot;none&quot;,&quot;collectionId&quot;:&quot;5e446016a51bf24d25ca4c65&quot;,&quot;controls&quot;:true,&quot;design&quot;:&quot;slideshow&quot;,&quot;meta-position&quot;:&quot;bottom&quot;,&quot;show-meta&quot;:true,&quot;show-meta-basic&quot;:true,&quot;show-meta-only-title&quot;:false,&quot;show-meta-only-description&quot;:false,&quot;show-meta-on-hover&quot;:false,&quot;square-thumbs&quot;:true,&quot;thumbnail-strip-height&quot;:80,&quot;thumbnail-strip-margin&quot;:20,&quot;thumbnails&quot;:true,&quot;vSize&quot;:null,&quot;transientGalleryId&quot;:&quot;5e446016a51bf24d25ca4c65&quot;&#125;" data-block-type="8" id="block-yui_3_17_2_1_1581539262555_6507"><div class="sqs-block-content">
-</body>
+
+
+
+
+  
+
+  
+
+
+<div class="
+  sqs-gallery-container
+  sqs-gallery-block-slideshow
+  
+  
+  sqs-gallery-has-controls
+  sqs-gallery-has-thumbnails
+
+  
+    sqs-gallery-block-show-meta sqs-gallery-block-meta-position-bottom
+    
+  
+  sqs-gallery-block-show-meta
+  
+  
+
+  
+  
+
+  
+  block-animation-none
+  clear"
+  
+  
+>
+  <div class="sqs-gallery">
+    
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539351858-1RB4KYRKNDTP1T3SNCMU/0001.jpg" alt="0001.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539351858-1RB4KYRKNDTP1T3SNCMU/0001.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539351858-1RB4KYRKNDTP1T3SNCMU/0001.jpg" data-image-dimensions="2500x1932" data-image-focal-point="0.5,0.5" alt="0001.jpg" data-load="false" data-image-id="5e4460171da18f1fea7d7b40" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539367196-LAMUNCPU1C79HTPGRK9N/0002.jpg" alt="0002.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539367196-LAMUNCPU1C79HTPGRK9N/0002.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539367196-LAMUNCPU1C79HTPGRK9N/0002.jpg" data-image-dimensions="2500x1932" data-image-focal-point="0.5,0.5" alt="0002.jpg" data-load="false" data-image-id="5e44602604630f78421f26ed" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539376337-ZBVCLWLS2I3QER6LM2AB/0003.jpg" alt="0003.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539376337-ZBVCLWLS2I3QER6LM2AB/0003.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539376337-ZBVCLWLS2I3QER6LM2AB/0003.jpg" data-image-dimensions="2500x1932" data-image-focal-point="0.5,0.5" alt="0003.jpg" data-load="false" data-image-id="5e44602f99bb612af7e18326" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539386636-XO6IG7Q0UYAAQYEZDI0C/0004.jpg" alt="0004.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539386636-XO6IG7Q0UYAAQYEZDI0C/0004.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539386636-XO6IG7Q0UYAAQYEZDI0C/0004.jpg" data-image-dimensions="2500x1932" data-image-focal-point="0.5,0.5" alt="0004.jpg" data-load="false" data-image-id="5e44603a1da18f1fea7d8a37" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539398323-FITRQBS8RX6E9VXCQOH5/0005.jpg" alt="0005.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539398323-FITRQBS8RX6E9VXCQOH5/0005.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539398323-FITRQBS8RX6E9VXCQOH5/0005.jpg" data-image-dimensions="2500x1932" data-image-focal-point="0.5,0.5" alt="0005.jpg" data-load="false" data-image-id="5e44604599bb612af7e18fea" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539407194-PW52GXFIDFI1UKNAMDYM/0006.jpg" alt="0006.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539407194-PW52GXFIDFI1UKNAMDYM/0006.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539407194-PW52GXFIDFI1UKNAMDYM/0006.jpg" data-image-dimensions="2500x1932" data-image-focal-point="0.5,0.5" alt="0006.jpg" data-load="false" data-image-id="5e44604e58798d25bb3b9b91" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539416291-2Z2HB7LYMQD8ZP3F0H3R/0007.jpg" alt="0007.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539416291-2Z2HB7LYMQD8ZP3F0H3R/0007.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539416291-2Z2HB7LYMQD8ZP3F0H3R/0007.jpg" data-image-dimensions="2500x1932" data-image-focal-point="0.5,0.5" alt="0007.jpg" data-load="false" data-image-id="5e446057a51bf24d25ca6676" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539421670-H0381ILYT4CORTPVEENY/0008.jpg" alt="0008.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539421670-H0381ILYT4CORTPVEENY/0008.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539421670-H0381ILYT4CORTPVEENY/0008.jpg" data-image-dimensions="2500x1932" data-image-focal-point="0.5,0.5" alt="0008.jpg" data-load="false" data-image-id="5e44605c58798d25bb3ba43b" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539427307-QWJ9TYM4D84KDT1M5ZTO/0009.jpg" alt="0009.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539427307-QWJ9TYM4D84KDT1M5ZTO/0009.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539427307-QWJ9TYM4D84KDT1M5ZTO/0009.jpg" data-image-dimensions="2500x1932" data-image-focal-point="0.5,0.5" alt="0009.jpg" data-load="false" data-image-id="5e44606272f89347e3703fea" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539432737-T3DIJDBK9S93DHG7WDGI/0010.jpg" alt="0010.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539432737-T3DIJDBK9S93DHG7WDGI/0010.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539432737-T3DIJDBK9S93DHG7WDGI/0010.jpg" data-image-dimensions="2500x1932" data-image-focal-point="0.5,0.5" alt="0010.jpg" data-load="false" data-image-id="5e44606899bb612af7e19a06" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539442435-21DU8VR37Q8M0L7ADKSB/0011.jpg" alt="0011.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539442435-21DU8VR37Q8M0L7ADKSB/0011.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539442435-21DU8VR37Q8M0L7ADKSB/0011.jpg" data-image-dimensions="2500x1932" data-image-focal-point="0.5,0.5" alt="0011.jpg" data-load="false" data-image-id="5e44607193968431828a2728" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539450244-SR17DH32O8MMRZXCIO6Q/0012.jpg" alt="0012.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539450244-SR17DH32O8MMRZXCIO6Q/0012.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539450244-SR17DH32O8MMRZXCIO6Q/0012.jpg" data-image-dimensions="2500x1932" data-image-focal-point="0.5,0.5" alt="0012.jpg" data-load="false" data-image-id="5e4460791bbda22c4987c1a2" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+    
+  </div>
+
+  
+    <div class="sqs-gallery-meta-container">
+    
+    
+      
+      
+        <div class="sqs-gallery-controls">
+          <a
+            tabindex="0"
+            role="button"
+            class="previous"
+            aria-label="Previous Slide"
+          ></a>
+          <a
+            tabindex="0"
+            role="button"
+            class="next"
+            aria-label="Next Slide"
+          ></a>
+        </div>
+      
+    
+    
+    </div> <!-- END .sqs-gallery-meta-container -->
+  
+
+</div>
+
+
+  
+
+    <div class="sqs-gallery-thumbnails" >
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 1"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539351858-1RB4KYRKNDTP1T3SNCMU/0001.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539351858-1RB4KYRKNDTP1T3SNCMU/0001.jpg" data-image-dimensions="2500x1932" data-image-focal-point="0.5,0.5" alt="0001.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 2"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539367196-LAMUNCPU1C79HTPGRK9N/0002.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539367196-LAMUNCPU1C79HTPGRK9N/0002.jpg" data-image-dimensions="2500x1932" data-image-focal-point="0.5,0.5" alt="0002.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 3"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539376337-ZBVCLWLS2I3QER6LM2AB/0003.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539376337-ZBVCLWLS2I3QER6LM2AB/0003.jpg" data-image-dimensions="2500x1932" data-image-focal-point="0.5,0.5" alt="0003.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 4"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539386636-XO6IG7Q0UYAAQYEZDI0C/0004.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539386636-XO6IG7Q0UYAAQYEZDI0C/0004.jpg" data-image-dimensions="2500x1932" data-image-focal-point="0.5,0.5" alt="0004.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 5"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539398323-FITRQBS8RX6E9VXCQOH5/0005.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539398323-FITRQBS8RX6E9VXCQOH5/0005.jpg" data-image-dimensions="2500x1932" data-image-focal-point="0.5,0.5" alt="0005.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 6"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539407194-PW52GXFIDFI1UKNAMDYM/0006.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539407194-PW52GXFIDFI1UKNAMDYM/0006.jpg" data-image-dimensions="2500x1932" data-image-focal-point="0.5,0.5" alt="0006.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 7"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539416291-2Z2HB7LYMQD8ZP3F0H3R/0007.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539416291-2Z2HB7LYMQD8ZP3F0H3R/0007.jpg" data-image-dimensions="2500x1932" data-image-focal-point="0.5,0.5" alt="0007.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 8"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539421670-H0381ILYT4CORTPVEENY/0008.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539421670-H0381ILYT4CORTPVEENY/0008.jpg" data-image-dimensions="2500x1932" data-image-focal-point="0.5,0.5" alt="0008.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 9"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539427307-QWJ9TYM4D84KDT1M5ZTO/0009.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539427307-QWJ9TYM4D84KDT1M5ZTO/0009.jpg" data-image-dimensions="2500x1932" data-image-focal-point="0.5,0.5" alt="0009.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 10"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539432737-T3DIJDBK9S93DHG7WDGI/0010.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539432737-T3DIJDBK9S93DHG7WDGI/0010.jpg" data-image-dimensions="2500x1932" data-image-focal-point="0.5,0.5" alt="0010.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 11"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539442435-21DU8VR37Q8M0L7ADKSB/0011.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539442435-21DU8VR37Q8M0L7ADKSB/0011.jpg" data-image-dimensions="2500x1932" data-image-focal-point="0.5,0.5" alt="0011.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 12"
+            data-load="false"
+            data-src="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539450244-SR17DH32O8MMRZXCIO6Q/0012.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5de44f7efbd78f1f18094c40/1581539450244-SR17DH32O8MMRZXCIO6Q/0012.jpg" data-image-dimensions="2500x1932" data-image-focal-point="0.5,0.5" alt="0012.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+    </div>
+
+  
+
+
+
+
+
+</div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1604351373569_8390"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container sqs-block-button-container--center"
+  data-animation-role="button"
+  data-alignment="center"
+  data-button-size="medium"
+  data-button-type="primary"
+>
+  <a
+    href="https://drive.google.com/file/d/18hWANISXeGK21Zu-JBhc5nisowATyenc/view?usp=sharing"
+    class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+    
+  >
+    View The Project Charter
+  </a>
+</div>
+</div></div></div></div></div>
+              </section>
+            
+          </main>
+
+        </div>
+      </div>
+
+      <footer class="Footer" role="contentinfo" data-controller="FooterBreakpoints">
+
+  <div class="Footer-inner clear">
+
+    <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--top sqs-alternate-block-style-container empty" data-layout-label="Footer Top Blocks" data-type="block-field" data-updated-on="1642297764927" id="footerBlocksTop"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+
+    <div class="Footer-middle">
+      <div class="Footer-business">
+
+        
+
+        
+          
+        
+
+      </div>
+
+      <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--middle sqs-alternate-block-style-container empty" data-layout-label="Footer Middle Blocks" data-type="block-field" data-updated-on="1575607794501" id="footerBlocksMiddle"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+
+      
+    </div>
+
+    <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--bottom sqs-alternate-block-style-container empty" data-layout-label="Footer Bottom Blocks" data-type="block-field" data-updated-on="1642039311331" id="footerBlocksBottom"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+
+  </div>
+
+</footer>
+
+
+    </div>
+
+    <script src="https://static1.squarespace.com/static/ta/55f0a9b0e4b0f3eb70352f6d/349/scripts/site-bundle.js" type="text/javascript"></script>
+
+    <script data-sqs-type="imageloader-bootstrapper">if(window.ImageLoader) window.ImageLoader.bootstrap({}, document);</script><script>Squarespace.afterBodyLoad(Y);</script><svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="linkedin-unauth-icon" viewBox="0 0 64 64"><path d="M20.4,44h5.4V26.6h-5.4V44z M23.1,18c-1.7,0-3.1,1.4-3.1,3.1c0,1.7,1.4,3.1,3.1,3.1 c1.7,0,3.1-1.4,3.1-3.1C26.2,19.4,24.8,18,23.1,18z M39.5,26.2c-2.6,0-4.4,1.4-5.1,2.8h-0.1v-2.4h-5.2V44h5.4v-8.6 c0-2.3,0.4-4.5,3.2-4.5c2.8,0,2.8,2.6,2.8,4.6V44H46v-9.5C46,29.8,45,26.2,39.5,26.2z"/></symbol><symbol id="linkedin-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M25.8,44h-5.4V26.6h5.4V44z M23.1,24.3c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1 c1.7,0,3.1,1.4,3.1,3.1C26.2,22.9,24.8,24.3,23.1,24.3z M46,44h-5.4v-8.4c0-2,0-4.6-2.8-4.6c-2.8,0-3.2,2.2-3.2,4.5V44h-5.4V26.6 h5.2V29h0.1c0.7-1.4,2.5-2.8,5.1-2.8c5.5,0,6.5,3.6,6.5,8.3V44z"/></symbol><symbol id="email-icon" viewBox="0 0 64 64"><path d="M17,22v20h30V22H17z M41.1,25L32,32.1L22.9,25H41.1z M20,39V26.6l12,9.3l12-9.3V39H20z"/></symbol><symbol id="email-mask" viewBox="0 0 64 64"><path d="M41.1,25H22.9l9.1,7.1L41.1,25z M44,26.6l-12,9.3l-12-9.3V39h24V26.6z M0,0v64h64V0H0z M47,42H17V22h30V42z"/></symbol></svg>
+
+  </body>
 </html>
