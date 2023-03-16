@@ -1,4 +1,12 @@
-<div class="sqs-block-content">
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"><div class="sqs-block-content">
+</head>
+
+<body>
   <h3 style="font-size:30px;">Project Overview</h3>
   <div style="background:#000; height:5px; margin-bottom:20px; margin-top:-15px; width:50px;"></div>
 <p>Northeastern University will evaluate the current e-Learning and Instructional Design program within the College of Professional Studies. This short-term project will conduct the background research necessary to support a program needs assessment and proposal to update the concentration. This serves as the background work for the business case and the Project Sponsor will utilize the data to propose a curriculum and name change to the e-Learning and Instructional Design program. The sponsor has asked for research into the modern duties of an instructional designer and learning experience designer.</p>
@@ -55,4 +63,5 @@
   <div style="background:#000; height:5px; margin-bottom:20px; margin-top:-15px; width:50px;"></div>
   <p>Northeastern University is retiring the eLearning and Instructional Design program and launching the Master of Professional Studies in Learning Experience Design and Technology. This program encompasses more technical skills that competitor university offers.</p></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_1_1643151608340_43583"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_1_1643151608340_44712"><div class="sqs-block-content"><h3 style="font-size:30px;">Evidence</h3>
   <div style="background:#000; height:5px; margin-bottom:20px; margin-top:-15px; width:50px;"></div></div></div><div class="sqs-block gallery-block sqs-block-gallery" data-block-json="&#123;&quot;hSize&quot;:null,&quot;floatDir&quot;:null,&quot;methodOption&quot;:&quot;transient&quot;,&quot;existingGallery&quot;:null,&quot;newWindow&quot;:true,&quot;aspectRatio&quot;:null,&quot;auto-crop&quot;:true,&quot;autoplay&quot;:false,&quot;blockAnimation&quot;:&quot;none&quot;,&quot;collectionId&quot;:&quot;5e446016a51bf24d25ca4c65&quot;,&quot;controls&quot;:true,&quot;design&quot;:&quot;slideshow&quot;,&quot;meta-position&quot;:&quot;bottom&quot;,&quot;show-meta&quot;:true,&quot;show-meta-basic&quot;:true,&quot;show-meta-only-title&quot;:false,&quot;show-meta-only-description&quot;:false,&quot;show-meta-on-hover&quot;:false,&quot;square-thumbs&quot;:true,&quot;thumbnail-strip-height&quot;:80,&quot;thumbnail-strip-margin&quot;:20,&quot;thumbnails&quot;:true,&quot;vSize&quot;:null,&quot;transientGalleryId&quot;:&quot;5e446016a51bf24d25ca4c65&quot;&#125;" data-block-type="8" id="block-yui_3_17_2_1_1581539262555_6507"><div class="sqs-block-content">
-
+</body>
+</html>
